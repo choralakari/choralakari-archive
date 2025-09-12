@@ -94,11 +94,12 @@ Falsetto transition point for Treble / C High (C'): at least around A4 or Bb4
 	* Final transposed key: will be transposed after revising the melody
 
 **Rating system for difficulty based on every song's range interval:**
-A (Beginner): less than a minor third - diminished fifth
-B (Novice): fifth - minor seventh
-C (Intermediate): major seventh - major ninth
-D (Advanced): minor tenth - diminished twelfth
-E (Expert): twelfth or more
+* A (Beginner): less than a minor third - diminished fifth
+* B (Novice): fifth - minor seventh
+* C (Intermediate): major seventh - major ninth
+* D (Advanced): minor tenth - diminished twelfth
+* E (Expert): twelfth or more
+
 Interval between two rating levels: major third
 
 Transposition modes:
