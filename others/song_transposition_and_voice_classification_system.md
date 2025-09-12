@@ -188,6 +188,7 @@ https://en.wikipedia.org/wiki/Parlour_music
 
 #### List of diatonic modes on C
 Note: Letters in [brackets] are relative major keys.
+
 | No. |       Mode       |       |      |      |     |Scales|      |      |      |       |
 |-----|------------------|-------|------|------|-----|------|------|------|------|-------|
 |   1 | C Major (I)      | [C]   | D    | E    | F   | G    | A    | B    | [C'] |       |
@@ -202,6 +203,7 @@ Note: Letters in [brackets] are relative major keys.
 |  10 | B Minor (VI)     | B°    | C#   | [D]  | E   | F#   | G    | A    | B    | (C#') |
 
 #### Chromatic inversion in F#/Gb origin (C4~C5 flip)
+
 | No. |       Mode        |       |      |      |     |Scales|      |      |     |        |
 |-----|-------------------|-------|------|------|-----|------|------|------|-----|--------|
 |   1 | C Phrygian (III)  | C'    | Bb   | [Ab] | G   | F    | Eb   | Db   | C   |        |
