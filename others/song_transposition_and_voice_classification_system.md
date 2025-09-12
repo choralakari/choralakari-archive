@@ -1,3 +1,8 @@
+---
+title: Notes
+layout: default
+---
+
 |              Voice Types              |       Vocal Synth Character References       |
 |---------------------------------------|----------------------------------------------|
 | High Treble / E-Flat High (Eb'; rare) | Akane and Aoi Kotonoha                       |
