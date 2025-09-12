@@ -189,30 +189,288 @@ https://en.wikipedia.org/wiki/Parlour_music
 #### List of diatonic modes on C
 Note: Letters in [brackets] are relative major keys.
 
-| No. |       Mode       |       |      |      |     |Scales|      |      |      |       |
-|-----|------------------|-------|------|------|-----|------|------|------|------|-------|
-|   1 | C Major (I)      | [C]   | D    | E    | F   | G    | A    | B    | [C'] |       |
-|   2 | C Dorian (II)    | C     | D    | Eb   | F   | G    | A    | [Bb] | C'   |       |
-|   3 | C Phrygian (III) | C     | Db   | Eb   | F   | G    | [Ab] | Bb   | C'   |       |
-|   4 | C Lydian (IV)    | C     | D    | E    | F#  | [G]  | A    | B    | C'   |       |
-|   5 | C Mixolydian (V) | C     | D    | E    | [F] | G    | A    | Bb   | C'   |       |
-|   6 | C Minor (VI)     | C     | D    | [Eb] | F   | G    | Ab   | Bb   | C'   |       |
-|   7 | C Locrian (VII)  | C     | [Db] | Eb   | F   | Gb   | Ab   | Bb   | C'   |       |
-|   8 | B Mixolydian (V) | B°    | C#   | D#   | [E] | F#   | G#   | A    | B    | (C#') |
-|   9 | B Dorian (II)    | B°    | C#   | D    | E   | F#   | G#   | [A]  | B    | (C#') |
-|  10 | B Minor (VI)     | B°    | C#   | [D]  | E   | F#   | G    | A    | B    | (C#') |
+<table>
+<thead>
+<tr>
+<th>No.</th>
+<th>Mode</th>
+<th colspan=9>Scales</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>C Major (I)</td>
+<td>[C]</td>
+<td>D</td>
+<td>E</td>
+<td>F</td>
+<td>G</td>
+<td>A</td>
+<td>B</td>
+<td>[C&#39;]</td>
+<td></td>
+</tr>
+<tr>
+<td>2</td>
+<td>C Dorian (II)</td>
+<td>C</td>
+<td>D</td>
+<td>Eb</td>
+<td>F</td>
+<td>G</td>
+<td>A</td>
+<td>[Bb]</td>
+<td>C&#39;</td>
+<td></td>
+</tr>
+<tr>
+<td>3</td>
+<td>C Phrygian (III)</td>
+<td>C</td>
+<td>Db</td>
+<td>Eb</td>
+<td>F</td>
+<td>G</td>
+<td>[Ab]</td>
+<td>Bb</td>
+<td>C&#39;</td>
+<td></td>
+</tr>
+<tr>
+<td>4</td>
+<td>C Lydian (IV)</td>
+<td>C</td>
+<td>D</td>
+<td>E</td>
+<td>F#</td>
+<td>[G]</td>
+<td>A</td>
+<td>B</td>
+<td>C&#39;</td>
+<td></td>
+</tr>
+<tr>
+<td>5</td>
+<td>C Mixolydian (V)</td>
+<td>C</td>
+<td>D</td>
+<td>E</td>
+<td>[F]</td>
+<td>G</td>
+<td>A</td>
+<td>Bb</td>
+<td>C&#39;</td>
+<td></td>
+</tr>
+<tr>
+<td>6</td>
+<td>C Minor (VI)</td>
+<td>C</td>
+<td>D</td>
+<td>[Eb]</td>
+<td>F</td>
+<td>G</td>
+<td>Ab</td>
+<td>Bb</td>
+<td>C&#39;</td>
+<td></td>
+</tr>
+<tr>
+<td>7</td>
+<td>C Locrian (VII)</td>
+<td>C</td>
+<td>[Db]</td>
+<td>Eb</td>
+<td>F</td>
+<td>Gb</td>
+<td>Ab</td>
+<td>Bb</td>
+<td>C&#39;</td>
+<td></td>
+</tr>
+<tr>
+<td>8</td>
+<td>B Mixolydian (V)</td>
+<td>B°</td>
+<td>C#</td>
+<td>D#</td>
+<td>[E]</td>
+<td>F#</td>
+<td>G#</td>
+<td>A</td>
+<td>B</td>
+<td>(C#&#39;)</td>
+</tr>
+<tr>
+<td>9</td>
+<td>B Dorian (II)</td>
+<td>B°</td>
+<td>C#</td>
+<td>D</td>
+<td>E</td>
+<td>F#</td>
+<td>G#</td>
+<td>[A]</td>
+<td>B</td>
+<td>(C#&#39;)</td>
+</tr>
+<tr>
+<td>10</td>
+<td>B Minor (VI)</td>
+<td>B°</td>
+<td>C#</td>
+<td>[D]</td>
+<td>E</td>
+<td>F#</td>
+<td>G</td>
+<td>A</td>
+<td>B</td>
+<td>(C#&#39;)</td>
+</tr>
+</tbody>
+</table>
 
 #### Chromatic inversion in F#/Gb origin (C4~C5 flip)
 
-| No. |       Mode        |       |      |      |     |Scales|      |      |     |        |
-|-----|-------------------|-------|------|------|-----|------|------|------|-----|--------|
-|   1 | C Phrygian (III)  | C'    | Bb   | [Ab] | G   | F    | Eb   | Db   | C   |        |
-|   2 | C Dorian (II)     | C'    | [Bb] | A    | G   | F    | Eb   | D    | C   |        |
-|   3 | C Major (I)       | [C']  | B    | A    | G   | F    | E    | D    | [C] |        |
-|   4 | C Locrian (VII)   | C'    | Bb   | Ab   | Gb  | F    | Eb   | [Db] | C   |        |
-|   5 | C Minor (VI)      | C'    | Bb   | Ab   | G   | F    | [Eb] | D    | C   |        |
-|   6 | C Mixolydian (V)  | C'    | Bb   | A    | G   | [F]  | E    | D    | C   |        |
-|   7 | C# Lydian (IV)    | C'    | B    | A    | [G] | F#   | E    | D    | C   |        |
-|   8 | C# Minor (VI)     | C#'   | B    | A    | G#  | F#   | [E]  | D#   | C#  | (B°)   |
-|   9 | C# Dorian (II)    | C#'   | [B]  | A#   | G#  | F#   | E    | D#   | C#  | ([B°]) |
-|  10 | Db Mixolydian (V) | Db'   | Cb   | Bb   | Ab  | [Gb] | F    | Eb   | Db  | (Cb°)  |
+<table>
+<thead>
+<tr>
+<th>No.</th>
+<th>Mode</th>
+<th colspan=9>Scales</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>C Phrygian (III)</td>
+<td>C&#39;</td>
+<td>Bb</td>
+<td>[Ab]</td>
+<td>G</td>
+<td>F</td>
+<td>Eb</td>
+<td>Db</td>
+<td>C</td>
+<td></td>
+</tr>
+<tr>
+<td>2</td>
+<td>C Dorian (II)</td>
+<td>C&#39;</td>
+<td>[Bb]</td>
+<td>A</td>
+<td>G</td>
+<td>F</td>
+<td>Eb</td>
+<td>D</td>
+<td>C</td>
+<td></td>
+</tr>
+<tr>
+<td>3</td>
+<td>C Major (I)</td>
+<td>[C&#39;]</td>
+<td>B</td>
+<td>A</td>
+<td>G</td>
+<td>F</td>
+<td>E</td>
+<td>D</td>
+<td>[C]</td>
+<td></td>
+</tr>
+<tr>
+<td>4</td>
+<td>C Locrian (VII)</td>
+<td>C&#39;</td>
+<td>Bb</td>
+<td>Ab</td>
+<td>Gb</td>
+<td>F</td>
+<td>Eb</td>
+<td>[Db]</td>
+<td>C</td>
+<td></td>
+</tr>
+<tr>
+<td>5</td>
+<td>C Minor (VI)</td>
+<td>C&#39;</td>
+<td>Bb</td>
+<td>Ab</td>
+<td>G</td>
+<td>F</td>
+<td>[Eb]</td>
+<td>D</td>
+<td>C</td>
+<td></td>
+</tr>
+<tr>
+<td>6</td>
+<td>C Mixolydian (V)</td>
+<td>C&#39;</td>
+<td>Bb</td>
+<td>A</td>
+<td>G</td>
+<td>[F]</td>
+<td>E</td>
+<td>D</td>
+<td>C</td>
+<td></td>
+</tr>
+<tr>
+<td>7</td>
+<td>C# Lydian (IV)</td>
+<td>C&#39;</td>
+<td>B</td>
+<td>A</td>
+<td>[G]</td>
+<td>F#</td>
+<td>E</td>
+<td>D</td>
+<td>C</td>
+<td></td>
+</tr>
+<tr>
+<td>8</td>
+<td>C# Minor (VI)</td>
+<td>C#&#39;</td>
+<td>B</td>
+<td>A</td>
+<td>G#</td>
+<td>F#</td>
+<td>[E]</td>
+<td>D#</td>
+<td>C#</td>
+<td>(B°)</td>
+</tr>
+<tr>
+<td>9</td>
+<td>C# Dorian (II)</td>
+<td>C#&#39;</td>
+<td>[B]</td>
+<td>A#</td>
+<td>G#</td>
+<td>F#</td>
+<td>E</td>
+<td>D#</td>
+<td>C#</td>
+<td>([B°])</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Db Mixolydian (V)</td>
+<td>Db&#39;</td>
+<td>Cb</td>
+<td>Bb</td>
+<td>Ab</td>
+<td>[Gb]</td>
+<td>F</td>
+<td>Eb</td>
+<td>Db</td>
+<td>(Cb°)</td>
+</tr>
+</tbody>
+</table>
