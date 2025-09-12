@@ -1,6 +1,5 @@
 ---
 title: Notes
-layout: default
 ---
 
 |              Voice Types              |       Vocal Synth Character References       |
