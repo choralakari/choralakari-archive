@@ -102,7 +102,7 @@ Falsetto transition point for Treble / C High (C'): at least around A4 or Bb4
 
 Interval between two rating levels: major third
 
-Transposition modes:
+**Transposition modes:**
 * According to the entire song's melody range and note distribution (only for fixed melodies)
 * According to the original singer's voice type
 
