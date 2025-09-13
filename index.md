@@ -6,15 +6,15 @@ title: "Choral Akari Archive"
 <link rel="icon" type="image/x-icon" href="./others/face.ico" />
 
 <div>
-  <a href="./start_demo.html">▶️ Start Demonstration</a>
+  <a href="./start_demo">▶️ Start Demonstration</a>
 </div>
 
 <div>
-  <a href="./others.html">📁 Other Files</a>
+  <a href="./others">📁 Other Files</a>
 </div>
 
 <div>
-  <a href="./synthv_lite_demo.html">🎤 Synthesizer V Lite Demo</a>
+  <a href="./synthv_lite_demo">🎤 Synthesizer V Studio Lite Demo</a>
 </div>
 
 <div>
