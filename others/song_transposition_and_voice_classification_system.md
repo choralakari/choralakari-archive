@@ -34,7 +34,7 @@ Falsetto transition point for Treble / C High (C'): at least around A4 or Bb4
 * gender factor of the voice (formant)
 
 **Short singing voice test for voice classification:**
-* Let a singer sing a major scale solmization (Do-Re-Mi-Fa-Sol-La-Si-Do) in a key refering the table above.
+* Let a singer sing a major scale solmization (Do-Re-Mi-Fa-Sol-La-Si-Do) in a key referring the table above.
 
 **Note:** The person who identifies the another person's voice type must have an absolute/perfect pitch. The person who has an absolute/perfect pitch to sing, especially in a choir, is very advantageous. For choral performances, expect that all choristers should have their own absolute/perfect pitch to stay in tune when singing homophonically, or especially, polyphonically, by striving to be accustomed to the widely accepted tuning system and reference pitch. Of course, choristers must know how to read and write sheet music.
 
