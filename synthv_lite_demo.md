@@ -8,7 +8,7 @@ title: "Synthesizer V Studio Lite Demo"
 ## 🎧 Synthesizer V Studio Lite Demo
 
 **Voices used:**  
-ANRI (Lite), Eleanor_Forte_AI (Lite), Tsurumaki_Maki_AI (ENG_Lite), and ASTERIAN (Lite)
+ANRI (Lite), Eleanor_Forte_AI_(Lite), Tsurumaki_Maki_AI_(ENG_Lite), and ASTERIAN_(Lite)
 
 ---
 
