@@ -423,7 +423,7 @@ Note: Letters in [brackets] are relative major keys.
 </tr>
 <tr>
 <td>7</td>
-<td>C# Lydian (IV)</td>
+<td>C Lydian (IV)</td>
 <td>C&#39;</td>
 <td>B</td>
 <td>A</td>
