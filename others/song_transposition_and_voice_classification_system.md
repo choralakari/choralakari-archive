@@ -1,5 +1,5 @@
 ---
-title: Notes
+title: Song Transposition and Voice Classification System
 ---
 
 |              Voice Types              |       Vocal Synth Character References       |
@@ -13,16 +13,16 @@ title: Notes
 | Bass / B-Flat Low (Bb°)               | Asterian, Ryūsei Aoyama                      |
 | Sub-Bass / F Low (F°; rare)           |                                              |
 
-|              Voice Types              |  Remarks to Do a Do-Re-Mi TikTok Filter Challenge   |
-|---------------------------------------|-----------------------------------------------------|
-| High Treble / E-Flat High (Eb'; rare) | Key is low but effortless to do, as long as in tune |
-| Treble / C High (C')                  | Perfectly suited                                    |
-| Meane / B-Flat High (Bb)              | Doable, but needs effort                            |
-| Alto-Tenor / G Middle (G)             | Proceed with caution as it leads to voice cracks    |
-| Tenor / E-Flat Middle (Eb)            | Either sing in falsetto or belt very powerfully     |
-| Baritone / C Low (C)                  | To be sung in falsetto                              |
-| Bass / B-Flat Low (Bb°)               | To be sung in falsetto with slightly more effort    |
-| Sub-Bass / F Low (F°; rare)           | To be sung in falsetto but needs more effort        |
+| Voice Types                            | Remarks to Do a Do-Re-Mi TikTok Filter Challenge                  |
+|----------------------------------------|-------------------------------------------------------------------|
+| High Treble / E-Flat High (Eb'; rare)  | Key is low but effortless to do, as long as the singer is in tune |
+| Treble / C High (C')                   | Perfectly suited                                                  |
+| Meane / B-Flat High (Bb)               | Doable, but requires effort                                       |
+| Alto-Tenor / G Middle (G)              | Proceed with caution as it leads to voice cracks                  |
+| Tenor / E-Flat Middle (Eb)             | Either sing in falsetto or belt very powerfully                   |
+| Baritone / C Low (C)                   | To be sung in falsetto                                            |
+| Bass / B-Flat Low (Bb°)                | To be sung in falsetto with slightly more effort                  |
+| Sub-Bass / F Low (F°; rare)            | To be sung in falsetto but needs more effort                      |
 
 **Range guide in a voice type of Treble / C High (C'):** ··· ‐ G3 - [C4 ‐ C5] ‐ F5 ‐ ···
 Falsetto transition point for Treble / C High (C'): at least around A4 or Bb4
