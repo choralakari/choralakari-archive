@@ -7,27 +7,19 @@ title: "Other Files"
 
 ## 📂 Other Files
 
+---
+
 ### 📄 Text / Markdown Files
 
-<div style="margin-left: 1em;">
-<a href="./others/ai_assisted_poems">ai_assisted_poems.md</a> |
-<a href="https://raw.githubusercontent.com/choralakari/choralakari-archive/refs/heads/main/others/ai_assisted_poems.md">Raw content</a>
-</div>
-<div style="margin-left: 1em;">
-<a href="./others/song_transposition_and_voice_classification_system">song_transposition_and_voice_classification_system.md</a> |
-<a href="https://raw.githubusercontent.com/choralakari/choralakari-archive/refs/heads/main/others/song_transposition_and_voice_classification_system.md">Raw content</a>
-</div>
+* **[ai\_assisted\_poems.md](./others/ai_assisted_poems)** |
+  [Raw content](https://raw.githubusercontent.com/choralakari/choralakari-archive/refs/heads/main/others/ai_assisted_poems.md)
+* **[song\_transposition\_and\_voice\_classification\_system.md](./others/song_transposition_and_voice_classification_system)** |
+  [Raw content](https://raw.githubusercontent.com/choralakari/choralakari-archive/refs/heads/main/others/song_transposition_and_voice_classification_system.md)
 
-<br>
+---
 
 ### 🖼️ Image Files
 
-<div style="margin-left: 1em;">
-Xingchen_Infinity.png —
-<a href="https://huggingface.co/1358Adrian/so-vits-svc-rvc-models/resolve/main/RVC_v2_Public_Models/Xingchen_Infinity.png" target="_blank">
-  Mirror 1
-</a> |
-<a href="../../Xingchen_Infinity.png" target="_blank">
-  Mirror 2
-</a>
-</div>
+* **Xingchen\_Infinity.png** |
+  [Mirror 1](https://huggingface.co/1358Adrian/so-vits-svc-rvc-models/resolve/main/RVC_v2_Public_Models/Xingchen_Infinity.png) |
+  [Mirror 2](../../Xingchen_Infinity.png)
