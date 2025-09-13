@@ -2,7 +2,7 @@
 title: AI-Assisted Poems
 ---
 
-1. Mòlìhuā (茉莉花)  
+**1\. Mòlìhuā** (茉莉花)  
 Singable translation; Meter: 7.7.7.7.7.5.7  
   
 Lo, the jasmine, pure and fair,  
@@ -38,7 +38,7 @@ Will you fade by spring?
 Jasmine fair, eternal thing.  
   
 ---  
-2. Haru ga Kita (春が来た)  
+**2\. Haru ga Kita** (春が来た)  
 Singable translation; Meter: 8.5.8.5  
   
 Representative Text 1:  
@@ -76,7 +76,7 @@ Through the trees their notes are winging,
 Songs of early spring.  
   
 ---  
-3. Haru no Ogawa (春の小川)  
+**3\. Haru no Ogawa** (春の小川)  
 Singable translation; Meter: 8.7.8.7.D (trochaic)  
   
 Springtime brook is softly flowing,  
@@ -107,7 +107,7 @@ And their tones, as if to reckon,
 Join the brook just like a star.  
   
 ---  
-4. Oborozukiyo (朧月夜)  
+**4\. Oborozukiyo** (朧月夜)  
 Singable translation; Meter: 7.6.7.6.D  
   
 The rapeseed fields are glowing  
@@ -129,7 +129,7 @@ All wrapped in haze are falling
 Beneath night's gentle spell.  
   
 ---  
-5. Sōshunfu (早春賦)  
+**5\. Sōshunfu** (早春賦)  
 Singable translation; Meter: 7.6.7.6.D  
   
 Though spring is named and nearing,  
@@ -160,7 +160,7 @@ What shall I do, resisting
 This longing held inside?  
   
 ---  
-6. Hana (花; First line: 春のうららの　隅田川)  
+**6\. Hana** (花; First line: 春のうららの　隅田川)  
 Singable translation; Meter: 7.5.7.5.D  
   
 Boats along the river glide,  
@@ -191,7 +191,7 @@ Moments bathed in gold and light,
 Precious, pure, and deep.  
   
 ---  
-7. Koinobori (鯉幟 / 鯉のぼり; Ryūtarō Hirota (弘田龍太郎), composer; anonymous lyricist)  
+**7\. Koinobori** (鯉幟 / 鯉のぼり; Ryūtarō Hirota (弘田龍太郎), composer; anonymous lyricist)  
 Singable translation; Meter: 7.5.7.5.D  
   
 Roof-tile waves and clouds arise,  
@@ -222,7 +222,7 @@ crimson, gold, and blue transcend,
 kites against the sky.  
   
 ---  
-8. Katatsumori (蝸牛 / かたつむり; Ministry of Education (文部省唱歌))  
+**8\. Katatsumori** (蝸牛 / かたつむり; Ministry of Education (文部省唱歌))  
 Singable translation; Meter: 8.5.8.5.8.5  
   
 Little snail, your shell is gleaming,  
@@ -240,7 +240,7 @@ Show your horns with grace abiding,
 Let your gaze shine through.  
   
 ---  
-9. Momiji (紅葉 / もみじ; First line: 秋の夕日に　照る山紅葉)  
+**9\. Momiji** (紅葉 / もみじ; First line: 秋の夕日に　照る山紅葉)  
 Singable translation; Meter: 6.7.6.7.6.7.6.5  
   
 Representative Text 1:  
@@ -284,7 +284,7 @@ there, in shifting weather,
 drifts a woven grace.  
   
 ---  
-10. Gōngxǐ Gōngxǐ (恭喜恭喜)  
+**10\. Gōngxǐ Gōngxǐ** (恭喜恭喜)  
 Singable translation; Meter: 6.6.6.6 (trochaic), with refrain  
   
 Every lane and alley  
@@ -316,7 +316,7 @@ Joyful tidings now we offer—
 Peace and plenty, year by year.  
   
 ---  
-11. Fujisan (富士山; First line: あたまを雲の上に出し)  
+**11\. Fujisan** (富士山; First line: あたまを雲の上に出し)  
 Singable translation; Meter: 7.5.8.5.D  
   
 Lifting high its mighty head  
@@ -338,7 +338,7 @@ Fuji reigns in grand containment—
 Peak of peerless height.  
   
 ---  
-12. Tane no Uta (種のうた; Pikmin 2)  
+**12\. Tane no Uta** (種のうた; Pikmin 2)  
 Singable translation; Meter: 6.5.6.5.6.5.D  
   
 Red are flames that guide me,  
@@ -381,7 +381,7 @@ Every shade a parting
 gift of nature's might.  
   
 ---  
-13. Juvenile Delinquent (Incipit: Am I a juvenile delinquent? I'm a teenager, I'm young, young at heart in mind.)  
+**13\. Juvenile Delinquent** (Incipit: Am I a juvenile delinquent? I'm a teenager, I'm young, young at heart in mind.)  
 Poetic adaptation of a declamation piece; Meter: 6.6.4.6.6.6.4  
   
 Am I a wayward soul,  
@@ -433,7 +433,7 @@ a soul that aches to care,
 and reach a star.  
   
 ---  
-14. Vengeance Is Not Ours, It's God's  
+**14\. Vengeance Is Not Ours, It's God's**  
 Poetic adaptation of a declamation piece; Meter: 12.12.12.12 (anapestic)  
   
 Spare a crumb for the lost—just a whisper of grace,  
@@ -477,7 +477,7 @@ But her voice in the dark softly drifted away:
 Now I beg you for bread, and I pray not to weep.  
   
 ---  
-15. Bad Girl (Incipit: Hey! Everybody seems to be staring at me. You, you, all of you!)  
+**15\. Bad Girl** (Incipit: Hey! Everybody seems to be staring at me. You, you, all of you!)  
 Poetic adaptation of a declamation piece; Meter: 8.8.8.8.D (trochaic)  
   
 Look at me—the world’s deceiving,  
@@ -526,7 +526,7 @@ If I’m lost, then walk beside me—
 Show your love before you chide me.  
   
 ---  
-16. A Glass of Cold Water (Incipit: Everybody calls me young, beautiful, wonderful. Am I?)  
+**16\. A Glass of Cold Water** (Incipit: Everybody calls me young, beautiful, wonderful. Am I?)  
 Poetic adaptation of a declamation piece; Meter: 8.3.3.6.D  
   
 "See me now," I sang with laughter—  
@@ -575,7 +575,7 @@ What was lost
 Cannot ask for leaving.  
   
 ---  
-17. Agony (Incipit: Agony isn't just a word. It's not just a noun. It's not just something you check in the dictionary or something you hear about. It involves pain.)  
+**17\. Agony** (Incipit: Agony isn't just a word. It's not just a noun. It's not just something you check in the dictionary or something you hear about. It involves pain.)  
 Poetic adaptation of a declamation piece; Meter: 7.6.7.6.D (trochaic)  
   
 Agony is not a word,  
@@ -624,7 +624,7 @@ agony may dim the light,
 but it cannot sever.  
   
 ---  
-18. Be My True Friend (Incipit: Hey! Are you a good friend? Are you a True Friend? A friend that will never leave me? It is you?)  
+**18\. Be My True Friend** (Incipit: Hey! Are you a good friend? Are you a True Friend? A friend that will never leave me? It is you?)  
 Poetic adaptation of a declamation piece; Meter: 11.11.11.11 (amphibrachic)  
   
 Are you a true friend who will never let go—  
@@ -658,7 +658,7 @@ If you are not fleeting, then reach out your hand—
 Be more than a promise. Be one who will stand.  
   
 ---  
-19. Sa Aking Mga Kabatà  
+**19\. Sa Aking Mga Kabatà**  
 Singable translation; Meter: 12.12.12.12 (iambic)  
   
 If people truly love the gift their tongue bestows,  
@@ -687,7 +687,7 @@ Yet still beneath the waves its memory remains—
 A boat once lost that calls us back through songs and chains.  
   
 ---  
-20. Teru Teru Bōzu (てるてる坊主)  
+**20\. Teru Teru Bōzu** (てるてる坊主)  
 Singable translation; Meter: 6.5.6.5.8.5.8.5  
   
 Representative Text 1:  
@@ -749,7 +749,7 @@ I shall cut your string, my darling,
 where your smile is made.  
   
 ---  
-21. Sakura, Sakura (桜　桜 / さくら さくら)  
+**21\. Sakura, Sakura** (桜　桜 / さくら さくら)  
 Singable translation; Meter: 3.7.7.7.7.3.5  
   
 Representative Text 1:  
@@ -857,7 +857,7 @@ Let us go,
 Where the blossoms lay.  
   
 ---  
-22. The Pains of Growing Up (Incipit: A child, aged three, in short pants was holding a balloon with his right hand and ice cream cone with his left.)  
+**22\. The Pains of Growing Up** (Incipit: A child, aged three, in short pants was holding a balloon with his right hand and ice cream cone with his left.)  
 Poetic adaptation of a declamation piece; Meter: 8.7.8.7.6.6.6.6.7  
   
 Representative Text 1:  
@@ -985,7 +985,7 @@ you still dwell in my heart—
 our bond, both strong and lasting.  
   
 ---  
-23. The Plea of an Aborted Fetus (Incipit: Set me free. Let me live, I deserve to be born, I want to live. For heaven's sake, have pity.)  
+**23\. The Plea of an Aborted Fetus** (Incipit: Set me free. Let me live, I deserve to be born, I want to live. For heaven's sake, have pity.)  
 Poetic adaptation of a declamation piece; Meter: 8.9.8.8.9.8.6.6.4.4.4.8  
 Tune: Wachet auf (Nicolai)  
   
@@ -1042,7 +1042,7 @@ My silent plea—
 A breath once held eternally.  
   
 ---  
-24. Am I to Be Blamed (Incipit: They're chasing me, they're chasing, no, they must not catch me, I have enough money now...)  
+**24\. Am I to Be Blamed** (Incipit: They're chasing me, they're chasing, no, they must not catch me, I have enough money now...)  
 Poetic adaptation of a declamation piece; Meter: 3.6.6.6.10.10  
 Tune: Come Again (Dowland)  
   
@@ -1082,7 +1082,7 @@ She’s gone! And so I ask you, eyes ashamed:
 For this life’s wreck, am I the one to blame?  
   
 ---  
-25. No Pardon for Me (Incipit: I'm sentenced. Sentenced to life in this dank cell of misery.)  
+**25\. No Pardon for Me** (Incipit: I'm sentenced. Sentenced to life in this dank cell of misery.)  
 Poetic adaptation of a declamation piece; Meter: 8.8.7.8.8.7 (trochaic)  
   
 Sentenced in this stone-bound chamber,  
@@ -1114,7 +1114,7 @@ And the wires wound in cruel order,
 Still I sing my silent song.  
   
 ---  
-26. Chatsumi (茶摘み; Ministry of Education (文部省唱歌))  
+**26\. Chatsumi** (茶摘み; Ministry of Education (文部省唱歌))  
 Singable translation; Meter: 7.7.7.7.7.7.7.5 (iambs and trochees for specific lines)  
   
 The eighty-eighth night passes,  
@@ -1136,7 +1136,7 @@ The tea that's worth the growing
 Springs from human hand.  
   
 ---  
-27. Kotini (First line: Tiedän paikan armahan, rauhallisen, ihanan)  
+**27\. Kotini** (First line: Tiedän paikan armahan, rauhallisen, ihanan)  
 Singable translation; Meter: 7.7.7.7 (trochaic)  
   
 Representative Text 1:  
@@ -1194,7 +1194,7 @@ Still my heart shall turn to Thee,
 Longing home’s pure peace to see.  
   
 ---  
-28. Tell the World of His Love  
+**28\. Tell the World of His Love**  
 Poetic adaptation of a contemporary Christian song lyrics; Meter: 8.7.8.7.D (iambic)  
   
 For God so loved this fallen world,  
@@ -1225,7 +1225,7 @@ And walk with Him through all your days,
 His boundless love unsealing.  
   
 ---  
-29. Murderess (Incipit: It’s already twelve o’clock. Oh, God, I’m hungry! I’ve been running and hiding for almost three days.)  
+**29\. Murderess** (Incipit: It’s already twelve o’clock. Oh, God, I’m hungry! I’ve been running and hiding for almost three days.)  
 Poetic adaptation of a declamation piece; Meter: 14.14.4.7.8 (dactylic)  
 Tune: Lobe den Herren (Stralsund Gesangbuch, 1665)  
   
@@ -1318,7 +1318,7 @@ Only escaped from a man.
 Now I am hunted, and broken.  
   
 ---  
-30. Ame (雨; First line: 雨がふります　雨がふる)  
+**30\. Ame** (雨; First line: 雨がふります　雨がふる)  
 Singable translation; Meter: 8.5.8.5.8.5  
   
 Representative Text 1:  
@@ -1396,7 +1396,7 @@ Rain is falling, rain is falling,
 Calling out my name.  
   
 ---  
-31. Christ in Us, Our Hope of Glory (51st International Eucharistic Congress)  
+**31\. Christ in Us, Our Hope of Glory** (51st International Eucharistic Congress)  
 Poetic adaptation of a contemporary Christian song lyrics; Meter: 8.7.8.7.4.7 (trochaic)  
   
 Representative Text 1:  
@@ -1520,8 +1520,9 @@ Christ within us,
 Hope and glory intertwined.  
   
 ---  
-32. Lord, We Thank You (Manny Lapingcao)  
+**32\. Lord, We Thank You** (Manny Lapingcao)  
 Poetic adaptation of a contemporary Christian song lyrics; Meter: 6.6.8.6.2.2.6  
+Tune: Marion  
   
 O Lord, we lift our song,  
 With thanks for all You do.  
@@ -1556,7 +1557,7 @@ We bow,
 We trust and follow You.  
   
 ---  
-33. Prayer for Generosity (Attributed to St. Ignatius of Loyola)  
+**33\. Prayer for Generosity** (Attributed to St. Ignatius of Loyola)  
 Poetic adaptation of a prayer; Meter: 4.4.6.4.4.6 (dactylic)  
   
 O Lord above,  
@@ -1588,7 +1589,7 @@ In You to live—
 My God, my all in all.  
   
 ---  
-34. The Suscipe Prayer of St. Ignatius of Loyola  
+**34\. The Suscipe Prayer of St. Ignatius of Loyola**  
 Poetic adaptation of a prayer; Meter: 10.10.10.10 (iambic stress with a stressed first syllable in every line)  
   
 Take, O my Lord, my life, my liberty,  
@@ -1602,7 +1603,7 @@ All I have gained, I offer now to You,
 Freely to give, as You gave all things too.  
   
 ---  
-35. One More Gift (Manuel V. Francisco, SJ)  
+**35\. One More Gift** (Manuel V. Francisco, SJ)  
 Poetic adaptation of a contemporary Christian song lyrics; Meter: CM (8.6.8.6; iambic)  
   
 Representative Text 1:  
@@ -1650,7 +1651,7 @@ for peace will flow and make us whole
 when it begins within.  
   
 ---  
-36. I Will Sing Forever (Manuel V. Francisco, SJ)  
+**36\. I Will Sing Forever** (Manuel V. Francisco, SJ)  
 Poetic adaptation of a contemporary Christian song lyrics; Meter: CMD (8.6.8.6.D; iambic)  
   
 I’ll sing forever of Your love,  
@@ -1681,7 +1682,7 @@ It turns our grief to pure delight
 And grants Your mercy, peace.  
   
 ---  
-37. Children of Easter Morn  
+**37\. Children of Easter Morn**  
 Poetic adaptation of a contemporary Christian song lyrics; Meter: 6.4.6.4.6.7.6.4 (dactylic stress pattern except the trochaic sixth line)  
 Tune: Happy Land (Hindustani melody)  
   
@@ -1762,7 +1763,7 @@ He reigns in heav’n’s array
 This Easter morn.  
   
 ---  
-38. Lord, We Gather Today (Lester Delgado)  
+**38\. Lord, We Gather Today** (Lester Delgado)  
 Poetic adaptation of a contemporary Christian song lyrics; Meter: 9.9.9.9 (amphibrachic)  
 Tune: Med sorgen og klagen hold måde / Despair not, O heart, in thy sorrow  
   
@@ -1782,7 +1783,7 @@ Send down now Your Spirit to guide us,
 That ever Your love may abide us.  
   
 ---  
-39. In My Heart (Manuel V. Francisco, SJ)  
+**39\. In My Heart** (Manuel V. Francisco, SJ)  
 Poetic adaptation of a contemporary Christian song lyrics; Meter: 7.6.7.6.D  
   
 Representative Text 1:  
@@ -1862,7 +1863,7 @@ To Him in earth and heaven
 Let endless glory ring!  
   
 ---  
-40. In Him Alone (Manuel V. Francisco, SJ)  
+**40\. In Him Alone** (Manuel V. Francisco, SJ)  
 Poetic adaptation of a contemporary Christian song lyrics; Meter: LM (8.8.8.8; iambic)  
   
 In Him alone is all our hope,  
@@ -1886,7 +1887,7 @@ He saves, He heals, His mercy true,
 His love shall all our days renew.  
   
 ---  
-41. Christify (Manuel V. Francisco, SJ)  
+**41\. Christify** (Manuel V. Francisco, SJ)  
 Revision of a contemporary Christian song lyrics; Meter: 9.9.9.9 (trochaic)  
   
 Representative Text 1:  
@@ -1934,7 +1935,7 @@ He who sanctifies the gifts we raise
 draws the world to Him in endless praise.  
   
 ---  
-42. Take Away the Rest (Author: Mervil Jilo Merjudio; Original Composer: Nikko Oliver Villanueva; Mass of St John Bosco; Year: 2016)  
+**42\. Take Away the Rest** (Author: Mervil Jilo Merjudio; Original Composer: Nikko Oliver Villanueva; Mass of St John Bosco; Year: 2016)  
 Poetic adaptation of a contemporary Christian song lyrics; Meter: 10.10.10.10 (iambic)  
   
 Before Your throne we bow with hearts aflame,  
@@ -1963,7 +1964,7 @@ Be here with us, our treasure and our rest,
 Our Lord, our All, in You we still are blessed.  
   
 ---  
-43. With All My Life (Fr. Arnold Zamora; Original lyrics found from https://www.shazam.com/song/1612019145/with-all-my-life-feat-fr-arnold-zamora)  
+**43\. With All My Life** (Fr. Arnold Zamora; Original lyrics found from https://www.shazam.com/song/1612019145/with-all-my-life-feat-fr-arnold-zamora)  
 Poetic adaptation of a contemporary Christian song lyrics; Meter: 8.7.8.7.8.7 (trochaic)  
   
 Thank You, Lord, for love unceasing,  
@@ -1995,7 +1996,7 @@ Love supreme forever showing,
 God eternal, Lord and King.  
   
 ---  
-44. Your Heart Today (Manuel V. Francisco, SJ)  
+**44\. Your Heart Today** (Manuel V. Francisco, SJ)  
 Poetic adaptation of a contemporary Christian song lyrics; Meter: 5.7.5.7.7 (trochaic)  
   
 Representative Text 1:  
@@ -2063,7 +2064,7 @@ Let me walk through sorrow’s mist,
 Be Your heart that will persist.  
   
 ---  
-45. Gloria in excelsis Deo  
+**45\. Gloria in excelsis Deo**  
 Poetic adaptation of the Greater Doxology; Meter: 7.7.7.7 (trochaic)  
   
 Glory be to God on high,  
