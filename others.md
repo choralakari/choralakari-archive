@@ -5,7 +5,7 @@ title: "Other Files"
 <!-- Favicon -->
 <link rel="icon" type="image/x-icon" href="./others/face.ico" />
 
-## 📁 Other Files
+## 📂 Other Files
 
 ### 📄 Text / Markdown Files
 
