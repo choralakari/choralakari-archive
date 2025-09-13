@@ -21,7 +21,11 @@ title: "Other Files"
 ### 🖼️ Image Files
 
 <div style="margin-left: 1em;">
+Xingchen_Infinity.png —
 <a href="https://huggingface.co/1358Adrian/so-vits-svc-rvc-models/resolve/main/RVC_v2_Public_Models/Xingchen_Infinity.png" target="_blank">
-  Xingchen_Infinity.png
+  Mirror 1
+</a> |
+<a href="../../Xingchen_Infinity.png" target="_blank">
+  Mirror 2
 </a>
 </div>
