@@ -7,7 +7,7 @@ title: "Other Files"
 
 ## 📂 Other Files
 
-### 📄 Text / Markdown Files
+### 📄 Text/Markdown Files
 
 * **[ai\_assisted\_poems.md](./others/ai_assisted_poems)** |
   [Raw content](https://raw.githubusercontent.com/choralakari/choralakari-archive/refs/heads/main/others/ai_assisted_poems.md)
