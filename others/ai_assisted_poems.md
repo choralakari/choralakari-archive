@@ -41,7 +41,7 @@ Jasmine fair, eternal thing.
 **2\. Haru ga Kita** (春が来た)  
 Singable translation; Meter: 8.5.8.5  
   
-Representative Text 1:  
+*Representative Text 1:*  
   
 Spring has come with gentle laughter,  
 Where, oh where is she?  
@@ -58,7 +58,7 @@ Where, oh where they sing?
 Through the skies and over ocean—  
 Everywhere is spring.  
   
-Representative Text 2:  
+*Representative Text 2:*  
   
 Spring has come with sunlight glowing,  
 Where has springtime been?  
@@ -243,7 +243,7 @@ Let your gaze shine through.
 **9\. Momiji** (紅葉 / もみじ; First line: 秋の夕日に　照る山紅葉)  
 Singable translation; Meter: 6.7.6.7.6.7.6.5  
   
-Representative Text 1:  
+*Representative Text 1:*  
   
 In the glow of evening,  
 mountains blazing, burning red,  
@@ -263,7 +263,7 @@ woven bright in tapestry,
 nature’s flowing fabric  
 dances on the sea.  
   
-Representative Text 2:  
+*Representative Text 2:*  
   
 In the dusk of autumn,  
 burnished hills in glory rise.  
@@ -690,7 +690,7 @@ A boat once lost that calls us back through songs and chains.
 **20\. Teru Teru Bōzu** (てるてる坊主)  
 Singable translation; Meter: 6.5.6.5.8.5.8.5  
   
-Representative Text 1:  
+*Representative Text 1:*  
   
 Shine, O little figure,  
 clear the skies for me.  
@@ -719,7 +719,7 @@ storm and shade must fall—
 then your string I cut in silence,  
 quietly and small.  
   
-Representative Text 2:  
+*Representative Text 2:*  
   
 Shine, O little figure,  
 clear the skies for me.  
@@ -752,7 +752,7 @@ where your smile is made.
 **21\. Sakura, Sakura** (桜　桜 / さくら さくら)  
 Singable translation; Meter: 3.7.7.7.7.3.5  
   
-Representative Text 1:  
+*Representative Text 1:*  
   
 Softly now,  
 Cherry blooms across the land,  
@@ -778,7 +778,7 @@ Pure as light on distant pine.
 There we’ll pause,  
 Bathed in calm and ray.  
   
-Representative Text 2:  
+*Representative Text 2:*  
   
 Blooming high,  
 Cherry trees in morning light,  
@@ -804,7 +804,7 @@ Waving in the gentle breeze.
 Step with me,  
 As we greet the day.  
   
-Representative Text 3:  
+*Representative Text 3:*  
   
 Cherry bloom,  
 Fields and hills in tender white,  
@@ -830,7 +830,7 @@ Blushing like a passing dream.
 There we’ll pause,  
 In the morning glow.  
   
-Representative Text 4:  
+*Representative Text 4:*  
   
 Cherry bloom,  
 Hills and plains are softly white,  
@@ -860,7 +860,7 @@ Where the blossoms lay.
 **22\. The Pains of Growing Up** (Incipit: A child, aged three, in short pants was holding a balloon with his right hand and ice cream cone with his left.)  
 Poetic adaptation of a declamation piece; Meter: 8.7.8.7.6.6.6.6.7  
   
-Representative Text 1:  
+*Representative Text 1:*  
   
 I ran with joy through sunlit grass,  
 balloon in hand, delighting;  
@@ -922,7 +922,7 @@ You’ll always be my shore—
 let love, not fear, restore  
 the ties we’ve never spoken.  
   
-Representative Text 2:  
+*Representative Text 2:*  
   
 A child with ice cream in one hand,  
 balloon held in the other,  
@@ -1139,7 +1139,7 @@ Springs from human hand.
 **27\. Kotini** (First line: Tiedän paikan armahan, rauhallisen, ihanan)  
 Singable translation; Meter: 7.7.7.7 (trochaic)  
   
-Representative Text 1:  
+*Representative Text 1:*  
   
 I know well a precious place,  
 Full of calm and gentle grace,  
@@ -1166,7 +1166,7 @@ Led by life’s uncertain hand,
 Still I’ll seek Thy dwelling fair—  
 Peaceful home of praise and prayer.  
   
-Representative Text 2:  
+*Representative Text 2:*  
   
 I know well a peaceful place,  
 Full of love and gentle grace;  
@@ -1229,7 +1229,7 @@ His boundless love unsealing.
 Poetic adaptation of a declamation piece; Meter: 14.14.4.7.8 (dactylic)  
 Tune: Lobe den Herren (Stralsund Gesangbuch, 1665)  
   
-Representative Text 1:  
+*Representative Text 1:*  
   
 Midnight is falling, the hunger inside me is burning.  
 Three days of running, with fear in my chest ever turning.  
@@ -1273,7 +1273,7 @@ I did not choose—
 But in that moment, I lose.  
 Still, I am not unbelieving.  
   
-Representative Text 2:  
+*Representative Text 2:*  
   
 Midnight has fallen; my breath comes in fevered convulsion.  
 Three days of fleeing have drained me in restless compulsion.  
@@ -1321,7 +1321,7 @@ Now I am hunted, and broken.
 **30\. Ame** (雨; First line: 雨がふります　雨がふる)  
 Singable translation; Meter: 8.5.8.5.8.5  
   
-Representative Text 1:  
+*Representative Text 1:*  
   
 Rain is falling, rain is falling,  
 I can't go outside.  
@@ -1358,7 +1358,7 @@ Whisp’ring like a name.
 Rain is falling, rain is falling,  
 Never tired of rain.  
   
-Representative Text 2:  
+*Representative Text 2:*  
   
 Rain is falling, rain is falling,  
 Can’t go out today.  
@@ -1399,7 +1399,7 @@ Calling out my name.
 **31\. Christ in Us, Our Hope of Glory** (51st International Eucharistic Congress)  
 Poetic adaptation of a contemporary Christian song lyrics; Meter: 8.7.8.7.4.7 (trochaic)  
   
-Representative Text 1:  
+*Representative Text 1:*  
   
 When You spoke, our hearts were burning,  
 Words that made the darkness flee.  
@@ -1429,7 +1429,7 @@ Christ within our hearts made strong.
 Hope of glory—  
 To Your risen life we long.  
   
-Representative Text 2:  
+*Representative Text 2:*  
   
 Burning deep, Your word was spoken,  
 Breaking hearts once bound in stone;  
@@ -1459,7 +1459,7 @@ With a joy that casts out fear.
 Christ within us—  
 Hope of glory ever clear.  
   
-Representative Text 3:  
+*Representative Text 3:*  
   
 Burning word, our hearts igniting,  
 Breaking through our hardened stone;  
@@ -1489,7 +1489,7 @@ Hearts rejoice and spirits flee.
 In communion,  
 We are Yours eternally.  
   
-Representative Text 4:  
+*Representative Text 4:*  
   
 Hearts were cold, but now they're burning,  
 By Your Word our souls were stirred;  
@@ -1606,7 +1606,7 @@ Freely to give, as You gave all things too.
 **35\. One More Gift** (Manuel V. Francisco, SJ)  
 Poetic adaptation of a contemporary Christian song lyrics; Meter: CM (8.6.8.6; iambic)  
   
-Representative Text 1:  
+*Representative Text 1:*  
   
 If one more gift I sought from Thee,  
 O Lord, my heart would pray,  
@@ -1628,7 +1628,7 @@ where hidden storms may be;
 for all without will find their rest  
 when peace abides in me.  
   
-Representative Text 2:  
+*Representative Text 2:*  
   
 If one more gift I asked from You,  
 my prayer would simply be:  
@@ -1686,7 +1686,7 @@ And grants Your mercy, peace.
 Poetic adaptation of a contemporary Christian song lyrics; Meter: 6.4.6.4.6.7.6.4 (dactylic stress pattern except the trochaic sixth line)  
 Tune: Happy Land (Hindustani melody)  
   
-Representative Text 1:  
+*Representative Text 1:*  
   
 We are the children bright,  
 Freed from the grave;  
@@ -1724,7 +1724,7 @@ In His joy we’ll ever live,
 And all our souls outgive—  
 Praise, praise for aye!  
   
-Representative Text 2:  
+*Representative Text 2:*  
   
 Children of light arise,  
 Sing forth our praise;  
@@ -1786,7 +1786,7 @@ That ever Your love may abide us.
 **39\. In My Heart** (Manuel V. Francisco, SJ)  
 Poetic adaptation of a contemporary Christian song lyrics; Meter: 7.6.7.6.D  
   
-Representative Text 1:  
+*Representative Text 1:*  
   
 Deep in my heart I’m knowing  
 My Savior lives today;  
@@ -1824,7 +1824,7 @@ His glory none can fade;
 In Christ our hope remaining,  
 Let all our praise be made.  
   
-Representative Text 2:  
+*Representative Text 2:*  
   
 Within my heart I’m knowing  
 My Savior lives and reigns;  
@@ -1890,7 +1890,7 @@ His love shall all our days renew.
 **41\. Christify** (Manuel V. Francisco, SJ)  
 Revision of a contemporary Christian song lyrics; Meter: 9.9.9.9 (trochaic)  
   
-Representative Text 1:  
+*Representative Text 1:*  
   
 Lord, receive the gifts we gladly bear;  
 earth’s own bounty, fruit of toil and care.  
@@ -1912,7 +1912,7 @@ here our thirst is stilled with heav’nly peace.
 Through this banquet, sanctified we live,  
 love unending, Lord, to You we give.  
   
-Representative Text 2:  
+*Representative Text 2:*  
   
 Bless, O Lord, the gifts we gladly bring;  
 earthly fruits we place before our King.  
@@ -1999,7 +1999,7 @@ God eternal, Lord and King.
 **44\. Your Heart Today** (Manuel V. Francisco, SJ)  
 Poetic adaptation of a contemporary Christian song lyrics; Meter: 5.7.5.7.7 (trochaic)  
   
-Representative Text 1:  
+*Representative Text 1:*  
   
 Where there dwells a fear,  
 gentle hands may still the tide,  
@@ -2031,7 +2031,7 @@ still, O Lord, I run,
 give me hope through loss and pain,  
 that Your heart may live again.  
   
-Representative Text 2:  
+*Representative Text 2:*  
   
 Where the fears abide,  
 I will quiet hearts that weep.  
