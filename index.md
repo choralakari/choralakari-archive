@@ -5,6 +5,11 @@ title: "Choral Akari Archive"
 <!-- Favicon -->
 <link rel="icon" type="image/x-icon" href="./others/face.ico" />
 
+A collection of synthesized choral arrangements with Synthesizer V Studio I and RVC.  
+Songs are mostly traditional Christian hymns.
+
+---
+
 <div>
   <a href="./start_demo">▶️ Start Demonstration</a>
 </div>
