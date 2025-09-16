@@ -20,4 +20,4 @@ title: "Other Files"
 
 * **Xingchen\_Infinity.png** |
   [Mirror 1](https://huggingface.co/1358Adrian/so-vits-svc-rvc-models/resolve/main/RVC_v2_Public_Models/Xingchen_Infinity.png) |
-  [Mirror 2](../../Xingchen_Infinity.png)
+  [Mirror 2](https://choralakari.github.io/Xingchen_Infinity.png)

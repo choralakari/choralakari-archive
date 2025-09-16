@@ -11,15 +11,15 @@ Songs are mostly traditional Christian hymns.
 ---
 
 <div>
-  <a href="./start_demo">▶️ Start Demonstration</a>
+  <a href="./start_demo_">▶️ Start Demonstration</a>
 </div>
 
 <div>
-  <a href="./others">📁 Other Files</a>
+  <a href="./others_">📁 Other Files</a>
 </div>
 
 <div>
-  <a href="./synthv_lite_demo">🎤 Synthesizer V Studio Lite Demo</a>
+  <a href="./synthv_lite_demo_">🎤 Synthesizer V Studio Lite Demo</a>
 </div>
 
 <div>
