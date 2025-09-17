@@ -24,7 +24,7 @@ title: Song Transposition and Voice Classification System
 | Bass / B-Flat Low (Bb°)                | To be sung in falsetto with slightly more effort                  |
 | Sub-Bass / F Low (F°; rare)            | To be sung in falsetto but needs more effort                      |
 
-**Range guide in a voice type of Treble / C High (C'):** ··· ‐ G3 - [C4 ‐ C5] ‐ F5 ‐ ···
+**Range guide in a voice type of Treble / C High (C'):** ··· ‐ G3 - [C4 ‐ C5] ‐ F5 ‐ ···  
 Falsetto transition point for Treble / C High (C'): at least around A4 or Bb4
 
 **Note:** Middle C is notated as C4. Use the widely accepted tuning system which is 12-tone equal temperament, associated with its standardized reference note for A4 which is 440Hz.
