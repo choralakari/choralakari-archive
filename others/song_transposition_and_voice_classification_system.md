@@ -81,14 +81,14 @@ Falsetto transition point for Treble / C High (C'): at least around A4 or Bb4
 
 * Example 3:
 	* Song's original keys and its range: Bb and B; F3 - Bb4 (eleventh (odd-numbered range interval, 17 semitones))
-	* Note distribution assumption: slightly negative skew
+	* Note distribution assumption: slightly negatively skewed
 	* After transposition: D and Eb; A3 - D5 (Note: if positively skewed slightly, Eb and E; Bb3 - Eb5)
 	* Target vocal type to sing: Treble / C High (C'), or Baritone / C Low (C)
 	* Final transposed keys: D and Eb; A3 - D5
 
 * Example 4:
 	* Song's original key and its range: C; G3 - E5 (major thirteenth (odd-numbered range interval, 21 semitones)) or even wider
-	* Note distribution assumption: extremely negative or positive skew, or even normally distributed
+	* Note distribution assumption: extremely negatively or positively skewed, or even normally distributed
 	* After transposition: Something is wrong with the melody; needs a decision to be revised.
 	* Target vocal type to sing: Tenor / E-flat Middle (Eb)
 	* Final transposed key: will be transposed after revising the melody

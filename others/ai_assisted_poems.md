@@ -1774,7 +1774,7 @@ The mercy our hearts are outpouring.
   
 We bring You our gifts for Your glory,  
 Proclaiming Your wonderful story;  
-We eat of the Bread You have given,  
+We eat of the bread You have given,  
 We drink from the cup sent from heaven.  
   
 These gifts of the vine and the leaven,  
