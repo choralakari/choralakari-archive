@@ -2100,4 +2100,48 @@ Spirit ever at Thy side.
 Glory to the Father’s name,  
 Glory to the Son the same.  
 Glory to the Spirit be,  
-Now and for eternity. Amen.
+Now and for eternity. Amen.  
+
+---
+**46\. Angel Voices, Ever Singing**  
+Non-archaic revision of a well-known hymn; Meter: 8.5.8.5.8.4.3 (trochaic)  
+
+Angel voices, ever singing  
+round your throne of light,  
+angel harps are always ringing,  
+praising day and night;  
+countless hosts delight to bless you,  
+and confess you,  
+Lord of might!  
+
+You who are beyond all seeing,  
+far from human eyes—  
+can it be that our mere being  
+draws you from the skies?  
+Can we know that you are near us,  
+and will hear us?  
+Yes! We rise.  
+  
+Yes, we know that you take pleasure  
+in each work begun;  
+hands and voices, gifts you treasure,  
+used for Christ your Son.  
+Every art, each skill and measure,  
+for your pleasure,  
+joins as one.  
+  
+In your house, O God, we offer  
+what you first have giv’n;  
+at your throne we dare to proffer  
+praise that rises heav’n.  
+Hearts and minds and hands and voices,  
+in our choicest  
+song are driv’n.  
+  
+Honor, glory, strength, and blessing  
+evermore are yours—  
+Father, Son, and Spirit, pressing  
+grace through time's long shores.  
+All the best that earth has given,  
+song and heaven  
+love ensures.  
