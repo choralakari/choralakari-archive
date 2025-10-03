@@ -2149,7 +2149,7 @@ love ensures.
 ---
 **47\. God Most Holy, We Thank You** (or Blest Triune God, We Thank You)  
 Song adapted from [Walang Hanggang Pasasalamat](https://www.youtube.com/results?search_query=Walang+Hanggang+Pasasalamat) and [Immaculate Heart of Mary Seminary Hymn](https://www.youtube.com/watch?v=HpNuV3vSZWI); Meter: 5.5.9.5.5.9 (trochaic) with refrain and coda  
-Tune: Immaculate Heart of Mary Seminary Hymn
+Tune: Immaculate Heart of Mary Seminary Hymn, or with my original tune (Sung in the Philippines and Original Tunes, no. 44 (Original Tune))
 
 Thank You, Lord Most High,  
 For the earth and sky,  
@@ -2186,3 +2186,53 @@ Giving thanks in endless praise.**
 
 <div style="font-size: 85%;">*or Blest Triune God, we thank you, / Blest Triune God, we sing.</div>
 <div style="font-size: 85%;">**or Giving thanks in unending praise.</div>
+
+---
+**48\. Morgen kommt der Weihnachtsmann**  
+Singable translation; Meter: 7.6.7.7.7.6  
+
+Santa’s coming soon, they say,  
+Bringing toys and treasure.  
+Drums and trumpets, bold and bright,  
+Flags that wave in morning light,  
+Swords and sabers gleaming white—  
+Gifts of warlike pleasure.  
+  
+Bring us toys, kind Santa dear,  
+Bring them all tomorrow!  
+Marching men in grand parade,  
+Bears and beasts of jungle shade,  
+Horses, oxen— finely made—  
+Joy to chase out sorrow.  
+  
+Still, you know what we all dream,  
+Know our hearts completely.  
+Mom and Dad and Grandpa too,  
+All of us are waiting true,  
+Wishing, hoping just for you—  
+Bring your wonders sweetly.  
+
+---
+**49\. Campanita del Lugar**  
+Singable translation; Meter: 7.6.7.7.7.6  
+
+Little bell, so bright and clear,  
+Ring in joyful wonder.  
+On this night the Christ was born,  
+Hope and light for all forlorn,  
+Love has cast out doubt and fear,  
+Ring in joyful wonder.  
+  
+Do not let your music fade,  
+Sing of peace and glory.  
+He was born in humble grace,  
+Bringing love to every place,  
+On this holy night displayed,  
+Sing of peace and glory.  
+  
+Little bell, now sound your song,  
+Ring with celebration.  
+In a manger, soft with hay,  
+Near the beasts, the King did lay,  
+He has waited all night long,  
+Ring with celebration.
