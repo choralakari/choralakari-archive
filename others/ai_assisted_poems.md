@@ -2147,8 +2147,9 @@ song and heaven
 love ensures.  
 
 ---
-**47\. Blessed Triune God, We Thank You**  
+**47\. God Most Holy, We Thank You** (or Blest Triune God, We Thank You)  
 Song adapted from [Walang Hanggang Pasasalamat](https://www.youtube.com/results?search_query=Walang+Hanggang+Pasasalamat) and [Immaculate Heart of Mary Seminary Hymn](https://www.youtube.com/watch?v=HpNuV3vSZWI); Meter: 5.5.9.5.5.9 (trochaic) with refrain and coda  
+Tune: Immaculate Heart of Mary Seminary Hymn
 
 Thank You, Lord Most High,  
 For the earth and sky,  
@@ -2165,8 +2166,8 @@ For Your presence there,
 For the strength that will not fade away.  
   
 *Refrain:*  
-Blessed Triune God, we thank you,  
-Blessed Triune God, we sing.  
+God most holy, we thank you,  
+God most holy, we sing.*  
 We shall ever proclaim,  
 All the praise to Your name,  
 Endless thanks shall our lips acclaim.  
@@ -2181,4 +2182,7 @@ For the love that will heal and make whole. *Refrain*
 *Coda:*  
 At the end of our days,  
 Still our hearts shall upraise,  
-Giving thanks in unending praise.
+Giving thanks in endless praise.**  
+
+<div style="font-size: 85%;">*or Blest Triune God, we thank you, / Blest Triune God, we sing.</div>
+<div style="font-size: 85%;">**or Giving thanks in unending praise.</div>
