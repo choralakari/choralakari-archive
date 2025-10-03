@@ -1964,7 +1964,7 @@ Be here with us, our treasure and our rest,
 Our Lord, our All, in You we still are blessed.  
   
 ---  
-**43\. With All My Life** (Fr. Arnold Zamora; Original lyrics found from https://www.shazam.com/song/1612019145/with-all-my-life-feat-fr-arnold-zamora)  
+**43\. With All My Life** (Fr. Arnold Zamora; Original lyrics found [here](https://www.shazam.com/song/1612019145/with-all-my-life-feat-fr-arnold-zamora))  
 Poetic adaptation of a contemporary Christian song lyrics; Meter: 8.7.8.7.8.7 (trochaic)  
   
 Thank You, Lord, for love unceasing,  
@@ -2145,3 +2145,40 @@ grace through time's long shores.
 All the best that earth has given,  
 song and heaven  
 love ensures.  
+
+---
+**47\. Blessed Triune God, We Thank You**  
+Song adapted from [Walang Hanggang Pasasalamat](https://www.youtube.com/results?search_query=Walang+Hanggang+Pasasalamat) and [Immaculate Heart of Mary Seminary Hymn](https://www.youtube.com/watch?v=HpNuV3vSZWI); Meter: 5.5.9.5.5.9 (trochaic) with refrain and coda  
+
+Thank You, Lord Most High,  
+For the earth and sky,  
+For the sun and the moon You have made.  
+Thank You, Christ, the King,  
+For the grace You bring,  
+For the gift of salvation displayed.  
+  
+Thank You, Spirit near,  
+For Your voice so clear,  
+For the light of Your guidance each day.  
+Thank You for Your care,  
+For Your presence there,  
+For the strength that will not fade away.  
+  
+*Refrain:*  
+Blessed Triune God, we thank you,  
+Blessed Triune God, we sing.  
+We shall ever proclaim,  
+All the praise to Your name,  
+Endless thanks shall our lips acclaim.  
+  
+Thank You for my kin,  
+For the love within,  
+For the trials that strengthen the soul.  
+Thank You for each friend,  
+For the hope You send,  
+For the love that will heal and make whole. *Refrain*  
+  
+*Coda:*  
+At the end of our days,  
+Still our hearts shall upraise,  
+Giving thanks in unending praise.
