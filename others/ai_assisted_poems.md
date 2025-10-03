@@ -2174,10 +2174,10 @@ Endless thanks shall our lips acclaim.
   
 Thank You for my kin,  
 For the love within,  
-For the trials that strengthen the soul.  
+For the trials that teach us to grow.  
 Thank You for each friend,  
 For the hope You send,  
-For the love that will heal and make whole. *Refrain*  
+For the mercies and blessings You show. *Refrain*  
   
 *Coda:*  
 At the end of our days,  
