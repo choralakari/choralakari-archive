@@ -2151,33 +2151,33 @@ love ensures.
 Song adapted from [Walang Hanggang Pasasalamat](https://www.youtube.com/results?search_query=Walang+Hanggang+Pasasalamat) and [Immaculate Heart of Mary Seminary Hymn](https://www.youtube.com/watch?v=HpNuV3vSZWI); Meter: 5.5.9.5.5.9 (trochaic) with refrain and coda  
 Tune: Immaculate Heart of Mary Seminary Hymn, or with my original tune (Sung in the Philippines and Original Tunes, no. 44 (Original Tune))
 
-Thank You, Lord Most High,  
+Thank You, God, on high,  
 For the earth and sky,  
 For the sun and the moon You have made.  
-Thank You, Christ, the King,  
-For the grace You bring,  
-For the gift of salvation displayed.  
-  
-Thank You, Spirit near,  
-For Your voice so clear,  
-For the light of Your guidance each day.  
+Thank You, Christ, who saves,  
+For the life that paves,  
+For the gift of eternity laid.  
+
+Thank You, Spirit, near,  
+For the voice we hear,  
+For the guidance You softly bestow.  
 Thank You for Your care,  
-For Your presence there,  
-For the strength that will not fade away.  
+For the grace we share,  
+For the paths where Your mercy will go.  
   
 *Refrain:*  
 God most holy, we thank you,  
 God most holy, we sing.*  
-We shall ever proclaim,  
+We shall ever proclaim  
 All the praise to Your name,  
 Endless thanks shall our lips acclaim.  
   
-Thank You for my kin,  
+Thank You, Lord, for kin,  
 For the love within,  
-For the trials that teach us to grow.  
-Thank You for each friend,  
-For the hope You send,  
-For the mercies and blessings You show. *Refrain*  
+For the friends who have journeyed our way.  
+Thank You for each test,  
+For the strength and rest,  
+For the hearts You renew every day. *Refrain*  
   
 *Coda:*  
 At the end of our days,  
