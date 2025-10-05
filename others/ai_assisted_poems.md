@@ -2177,7 +2177,7 @@ For the love within,
 For the friends who have journeyed our way.  
 Thank You for each test,  
 For the strength and rest,  
-For the hearts You renew every day. *Refrain*  
+For the hearts You renew every day. *Refrain (twice)*  
   
 *Coda:*  
 At the end of our days,  
