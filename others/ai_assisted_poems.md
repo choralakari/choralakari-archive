@@ -2236,3 +2236,51 @@ In a manger, soft with hay,
 Near the beasts, the King did lay,  
 He has waited all night long,  
 Ring with celebration.
+
+---  
+**50\. Akatonbo (赤とんぼ)**  
+Singable translation; Meter: 8.5.8.5  
+
+*Representative Text 1:*  
+
+Evening glows with embers dying,  
+Red-winged dragonfly,  
+On my back I watched you flying—  
+When was that, and why?  
+
+On the hill the mulberries darken,  
+Sweet with summer’s air;  
+Did I dream I saw and harkened,  
+Plucking berries there?  
+
+At fifteen my sister, sighing,  
+Wed and went away;  
+From her home no word replying  
+Comes to me today.  
+
+Evening glows with embers dying,  
+Red-winged dragonfly;  
+On the pole you rest, defying  
+Time that drifts on by.  
+
+*Representative Text 2:*  
+
+Crimson skies in sunset’s glowing,  
+Dragonfly of red,  
+On my back I watched you going—  
+Days long vanished, fled.  
+  
+Mulberries from mountain meadows,  
+Dreams of days gone by,  
+In my little basket’s shadows—  
+Was it truth or lie?  
+  
+Fifteen years—my nurse departed,  
+Wed and gone away,  
+From her home no word has started  
+Since that distant day.  
+  
+Crimson skies in sunset’s glowing,  
+Dragonfly of red,  
+On the pole’s thin tip you’re showing,  
+Still and overhead.  
