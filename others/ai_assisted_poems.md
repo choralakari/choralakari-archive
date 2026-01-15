@@ -2284,3 +2284,16 @@ Crimson skies in sunset’s glowing,
 Dragonfly of red,  
 On the pole’s thin tip you’re showing,  
 Still and overhead.  
+
+---
+**51\. Somnias a Luna (Columbina's Lullaby)**  
+Singable translation; Meter: 7.6.7.6.9.9.9.9 (trochaic)  
+
+Sleep, dear dove, the night descends,  
+Moonlight softly gleaming,  
+Dreams of bloom your heart defends,  
+Stars are bright and streaming.  
+Daughter of the moon, lie sheltered, safe;  
+Let no dust defile your wing at night.  
+Though no arms remain, be sheltered, safe;  
+Slumber now in dreams the moon makes bright.
