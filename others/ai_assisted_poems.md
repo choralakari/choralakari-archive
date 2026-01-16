@@ -2300,7 +2300,7 @@ Slumber now in dreams the moon makes bright.
 
 ---
 **52\. Stella Maris (Manuel V. Francisco, SJ, composer; Silvino Borres Jr., SJ, lyricist)**  
-Poetic adaptation of a contemporary Marian song lyrics; Meter: 7.6.7.6. with 9.9.9.9 refrain (both trochaic)
+Poetic adaptation of a contemporary Marian song lyrics; Meter: 7.6.7.6 with 9.9.9.9 refrain (both trochaic)
 
 When our voyaging is frail,  
 Rocked by trouble, shaking,  
