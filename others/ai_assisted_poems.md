@@ -2296,4 +2296,29 @@ Stars are bright and streaming.
 Daughter of the moon, lie sheltered, safe;  
 Let no dust defile your wing at night.  
 Though no arms remain, be sheltered, safe;  
-Slumber now in dreams the moon makes bright.
+Slumber now in dreams the moon makes bright.  
+
+---
+**52\. Stella Maris (Manuel V. Francisco, SJ, composer; Silvino Borres Jr., SJ, lyricist)**  
+Poetic adaptation of a contemporary Marian song lyrics; Meter: 7.6.7.6. with 9.9.9.9 refrain (both trochaic)
+
+When our voyaging is frail,  
+Rocked by trouble, shaking,  
+May we glimpse you through the gale,  
+Morning Star awaking.  
+
+*Refrain:*  
+Mary, dwelling in the human heart,  
+You the star of heaven’s pathway bright;  
+Mary, dwelling in the human heart,  
+Never fades your ever-faithful light.  
+
+Though the waves of fear assail,  
+Storms of grief unbreaking,  
+Darkest night shall never veil  
+Hope your light is making. *Refrain*  
+
+Lead us onward, Mother mild,  
+Heavenward our yearning,  
+Till the realm by love beguiled,  
+Crowned as our returning.  *Refrain*  
