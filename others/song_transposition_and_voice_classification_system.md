@@ -25,7 +25,7 @@ title: Song Transposition and Voice Classification System
 | Sub-Bass / F Low (F°; rare)            | To be sung in falsetto but needs more effort                      |
 
 **Range guide in a voice type of Treble / C High (C'):** ··· ‐ G3 - [C4 ‐ C5] ‐ F5 ‐ ···  
-Falsetto transition point for Treble / C High (C'): at least around A4 or Bb4
+**Falsetto transition point for Treble / C High (C'):** at least around A4 or Bb4
 
 **Note:** Middle C is notated as C4. Use the widely accepted tuning system which is 12-tone equal temperament, associated with its standardized reference note for A4 which is 440Hz.
 
@@ -107,6 +107,22 @@ Interval between two rating levels: major third
 * According to the original singer's voice type
 
 If we do not wish to transpose a song, just select a voice type that centrally fits the entire song's notes to the vocal range guide.
+
+---
+**Composing a song based on centralized C4~C5 rule for Treble / C High (C') singers**
+
+**C major or A minor:** (B3)-**C4**-D4-E4-F4-G4-*A4*-B4-**C5**-(D5)  
+**Db major or Bb minor:** (*Bb3*)-C4-**Db4**-Eb4-F4-Gb4-Ab4-*Bb4*-C5-(**Db5**)  
+**D major or B minor:** (*B3*)-C#4-**D4**-E4-F#4-G4-A4-*B4*-(C#5-**D5**)  
+**Eb major or C minor:** (Bb3)-*C4*-D4-**Eb4**-F4-G4-Ab4-Bb4-*C5*-(D5)  
+**E major or C# minor:** (B3)-*C#4*-D#4-**E4**-F#4-G#4-A4-B4-(*C#5*)  
+**F major or D minor:** (Bb3)-C4-*D4*-E4-**F4**-G4-A4-Bb4-C5-(*D5*)  
+**Gb major or Eb minor:** (Bb3-Cb4)-Db4-*Eb4*-F4-**Gb4**-Ab4-Bb4-Cb5-(Db5)  
+**G major or E minor:** (B3)-C4-D4-*E4*-F#4-**G4**-A4-B4-C5-(D5)  
+**Ab major or F minor:** (Bb3)-C4-Db4-Eb4-*F4*-G4-**Ab4**-Bb4-C5-(Db5)  
+**A major or F# minor:** (B3)-C#4-D4-E4-*F#4*-G#4-**A4**-B4-(C#5-D5)  
+**Bb major or G minor:** (**Bb3**)-C4-D4-Eb4-F4-*G4*-A4-**Bb4**-C5-(D5)  
+**B major or G# minor:** (**B3**)-C#4-D#4-E4-F#4-*G#4*-A#4-**B4**-(C#5)  
 
 ---
 **Primary modal frames for melody composition (in a key of C for this example)**
@@ -475,20 +491,3 @@ Note: Letters in [brackets] are relative major keys.
 </tr>
 </tbody>
 </table>
-
----
-
-#### Composing a song based on centralized C4~C5 rule for Treble / C High (C') singers
-
-**C major or A minor:** (B3)-**C4**-D4-E4-F4-G4-*A4*-B4-**C5**-(D5)  
-**Db major or Bb minor:** (*Bb3*)-C4-**Db4**-Eb4-F4-Gb4-Ab4-*Bb4*-C5-(**Db5**)  
-**D major or B minor:** (*B3*)-C#4-**D4**-E4-F#4-G4-A4-*B4*-(C#5-**D5**)  
-**Eb major or C minor:** (Bb3)-*C4*-D4-**Eb4**-F4-G4-Ab4-Bb4-*C5*-(D5)  
-**E major or C# minor:** (B3)-*C#4*-D#4-**E4**-F#4-G#4-A4-B4-(*C#5*)  
-**F major or D minor:** (Bb3)-C4-*D4*-E4-**F4**-G4-A4-Bb4-C5-(*D5*)  
-**Gb major or Eb minor:** (Bb3-Cb4)-Db4-*Eb4*-F4-**Gb4**-Ab4-Bb4-Cb5-(Db5)  
-**G major or E minor:** (B3)-C4-D4-*E4*-F#4-**G4**-A4-B4-C5-(D5)  
-**Ab major or F minor:** (Bb3)-C4-Db4-Eb4-*F4*-G4-**Ab4**-Bb4-C5-(Db5)  
-**A major or F# minor:** (B3)-C#4-D4-E4-*F#4*-G#4-**A4**-B4-(C#5-D5)  
-**Bb major or G minor:** (**Bb3**)-C4-D4-Eb4-F4-*G4*-A4-**Bb4**-C5-(D5)  
-**B major or G# minor:** (**B3**)-C#4-D#4-E4-F#4-*G#4*-A#4-**B4**-(C#5)  
