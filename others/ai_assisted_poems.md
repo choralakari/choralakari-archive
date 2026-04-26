@@ -2289,10 +2289,23 @@ Still and overhead.
 **51\. Somnias a Luna (Columbina's Lullaby)**  
 Singable translation; Meter: 7.6.7.6.9.9.9.9 (trochaic)  
 
+*Initial Version:*  
+
 Sleep, dear dove, the night descends,  
 Moonlight softly gleaming,  
 Dreams of bloom your heart defends,  
 Stars are bright and streaming.  
+Daughter of the moon, lie sheltered, safe;  
+Let no dust defile your wing at night.  
+Though no arms remain, be sheltered, safe;  
+Slumber now in dreams the moon makes bright.  
+
+*First Revision:*  
+
+Sleep now, little dove, be still;  
+Moonlight hums around you.  
+Silver windows gleam and fill;  
+Blooming dreams surround you.  
 Daughter of the moon, lie sheltered, safe;  
 Let no dust defile your wing at night.  
 Though no arms remain, be sheltered, safe;  
@@ -2322,3 +2335,39 @@ Lead us onward, Mother mild,
 Heavenward our yearning,  
 Till the realm by love beguiled,  
 Crowned as our returning.  *Refrain*  
+
+---
+**53\. We Come to You (Lester Delgado)**  
+Poetic adaptation of a contemporary Christian song lyrics; Meter: 8.7.8.7.7.7 (trochaic)  
+  
+Father, on this day we seek Thee,  
+Trusting hearts in prayer we bend;  
+Wash from guilt and sin release us,  
+Cleanse us, Lord, our souls amend.  
+Teach us, Lord, to love Thee true,  
+Draw our hearts, O Lord, to You.  
+  
+Hearts now opened, Lord, we praise Thee,  
+By Thy cross the world is saved;  
+Grant forgiveness, show Thy mercy,  
+Rescue those by sin enslaved.  
+Teach us, Lord, to love Thee true,  
+Form our hearts to follow You.  
+  
+---  
+**54\. Hear and Heal Me Now (Lester Delgado)**  
+Poetic adaptation of a contemporary Christian song lyrics; Meter: 8.7.8.7.7.7 (trochaic)  
+  
+Hear and heal me now, O Savior,  
+At Thy cross, O Lord, I bow;  
+All our fears and cares we offer,  
+Lay them at Thy mercy now.  
+Teach our hearts to trust in Thee,  
+Guide us in humility.  
+  
+Lord, we need Thee every hour,  
+Thou alone our strength and stay;  
+Thou didst give Thy life to save us,  
+Bearing all our sins away.  
+Gracious Lord, how kind Thou art,  
+Reign forever in our heart.
