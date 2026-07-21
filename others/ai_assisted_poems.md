@@ -2371,3 +2371,37 @@ Thou didst give Thy life to save us,
 Bearing all our sins away.  
 Gracious Lord, how kind Thou art,  
 Reign forever in our heart.
+
+---  
+**55\. Lift Up Your Hands (Cecile Azarcon)**  
+Poetic adaptation of a contemporary Christian song lyrics; Meter: 8.6.8.6 (trochaic)  
+
+Life is never dark or hollow,  
+If you keep believing;  
+Hope will guide the steps you follow,  
+Comfort for your grieving.  
+  
+Someone walks beside your sorrow,  
+Never leaves you lonely;  
+Reach out for a bright tomorrow,  
+Trust in Him and only.  
+  
+Reach your hands in quiet praying,  
+Open up your spirit,  
+Hear the gentle spirit saying,  
+Listen close and hear it.  
+  
+When the world around is breaking,  
+And your strength is failing,  
+See the morning light awaking,  
+Over shadows sailing.  
+  
+Cast your heavy burdens near Him  
+When your soul is weary;  
+Find the peace of those who fear Him  
+When the days are dreary.  
+  
+Take the gentle yoke He gives you,  
+Light and full of blessing;  
+Rest and quiet life He gives you,  
+Peaceful heart possessing.
